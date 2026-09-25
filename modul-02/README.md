@@ -1,4 +1,4 @@
-# Praktikum Pemrograman Komputer - Modul 1
+# Praktikum Pemrograman Komputer - Modul 2
 
 **Hint!**
 * Gunakan Print
