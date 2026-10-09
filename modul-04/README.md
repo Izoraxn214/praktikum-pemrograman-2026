@@ -198,25 +198,4 @@ Total Mahasiswa = ...
 
 ---
 
-## ✅ Checklist Sebelum Kumpul
-
-- [ ] Nama & NRM di header udah diganti punya sendiri
-- [ ] Pakai `while` loop (bukan cuma `for`)
-- [ ] Data disimpan dalam `list`
-- [ ] Ada counter tiap grade
-- [ ] Tabel rata & lurus
-- [ ] **Jumlah semua grade = Total Mahasiswa** (cara cepat ngecek bug!)
-- [ ] Laporan Pendahuluan: 4 langkah
-- [ ] Laporan Akhir: 4 langkah + coding + screenshot output
-
----
-
-## 📂 Struktur Repo (saran)
-
-```
-├── README.md
-├── DataNilai.xlsx
-└── grading.py
-```
-
 Good luck! 🚀
